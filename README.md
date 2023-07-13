@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad-adel-git&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad-adel-git" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammad-adel-git" alt="mohammad-adel-git" /></a> </p>
-
 - 🌱 I’m currently learning **Backend Development**
 
 - 📫 to reach me, contact via email: **mohammadadel99999@gmail.com**
